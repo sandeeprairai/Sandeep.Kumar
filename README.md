@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">An aspiring Machine Learner and Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 - ✍ You can find my projects here <a href = 'https://github.com/sandeeprairai'>github</a>
 - 🔭 I’m currently working on upgrading my skills.
